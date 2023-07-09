@@ -1,0 +1,7 @@
+; gen_jkit.def : DLL のモジュール パラメータを宣言します。
+
+LIBRARY      "gen_jkit"
+
+EXPORTS
+    ; 明示的なエクスポートはここへ記述できます
+	DllUnregisterServer private
