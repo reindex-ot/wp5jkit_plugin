@@ -16,9 +16,8 @@ winampを終了させた状態で、Winamp(x86)\pluginsフォルダーにある
 の2個のファイルを削除してください。
 
 ## ライセンス
-このソフトはフリーソフトウェアです。改変再配布は自由です。
-しかし、以下のソフトウェアが含まれています。
-
+このソフトはフリーソフトウェアです。改変再配布は自由です。<br>
+Winamp拡張プラグインには、以下のソフトウェアが含まれています。
 - [Winamp SDK](https://getwacup.com/sdk/Winamp/)
 - [ttcconv.cpp/ttcconv.h](http://hp.vector.co.jp/authors/VA010851/be/index.html)
 
